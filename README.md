@@ -1,2 +1,2 @@
 # inventory_modf_server_TopGaz_company_V17_18
-In this Module I didi add new Field that contain Taxes with Spicail Value that this Company Want it.
+In this module, I added a new field that contains taxes with a special value required by the company.
